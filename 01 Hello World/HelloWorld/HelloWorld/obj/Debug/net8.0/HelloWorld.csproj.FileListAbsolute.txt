@@ -1,0 +1,15 @@
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+G:\C#\C# Tutorial Repo\01 Hello World\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
